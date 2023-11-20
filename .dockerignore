@@ -1,0 +1,6 @@
+fast-venv
+**__pycache__
+
+*.env
+*.env.*
+env.*
